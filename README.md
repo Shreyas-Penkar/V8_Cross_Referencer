@@ -10,6 +10,6 @@ The cache/ folder consists of the cached V8 lookups which do the update DB funct
 
 The chrome_downloader.py is a script to download Chromium binaries in bulk. (Useful in some situations).
 
-##### Things to Fix
+### Things to Fix
 - During Update DB some V8 commits fail to get the version although the version is present.
 - Add more comments to the code
