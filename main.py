@@ -284,6 +284,6 @@ def main():
             print(colored("Bye :)",'magenta'))
             break
         else:
-            print(colored("[-] Invalid choice. Please try again."),'red')
+            print(colored("[-] Invalid choice. Please try again.",'red'))
 
 main()
